@@ -22,10 +22,10 @@
 
 <a><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js icon" width="5%" height="8%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html icon" width="5%" height="8%">
-<img src="https://e7.pngegg.com/pngimages/239/228/png-clipart-html-css3-cascading-style-sheets-logo-markup-language-digital-agency-miscellaneous-blue.png" alt="css icon" width="5%" height="8%">
+<img src="https://e7.pngegg.com/pngimages/239/228/png-clipart-html-css3-cascading-style-sheets-logo-markup-language-digital-agency-miscellaneous-blue.png" alt="css icon" width="5%" height="5%">
 <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/46/ac/9f/46ac9fa3-8248-590e-c9af-1e183a8a6edc/source/256x256bb.jpg" alt="node js icon" width="5%" height="8%">
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express icon" width="5%" height="8%">
-<img src="https://cms-assets.tutsplus.com/uploads/users/1125/posts/29791/preview_image/RN.jpg" alt="react icon" width="5%" height="8%">
+<img src="https://cms-assets.tutsplus.com/uploads/users/1125/posts/29791/preview_image/RN.jpg" alt="react icon" width="5%" height="10%">
 <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/redux-icon.png" alt="redux icon" width="5%" height="8%"><a/>
 
 <h3>CONTACTO 📞📧</h3>
