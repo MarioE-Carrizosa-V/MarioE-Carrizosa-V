@@ -20,13 +20,16 @@
 
 <h3>SKILLS 👨‍🔧</h3>
 
-<a><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="js icon" width="5%" height="8%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html icon" width="50" height="50">
-<img src="https://e7.pngegg.com/pngimages/239/228/png-clipart-html-css3-cascading-style-sheets-logo-markup-language-digital-agency-miscellaneous-blue.png" alt="css icon" width="50" height="50">
-<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/46/ac/9f/46ac9fa3-8248-590e-c9af-1e183a8a6edc/source/256x256bb.jpg" alt="node js icon" width="50" height="50">
-<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express icon" width="50" height="50">
-<img src="https://cms-assets.tutsplus.com/uploads/users/1125/posts/29791/preview_image/RN.jpg" alt="react icon" width="50" height="50">
-<img src="https://uploads-ssl.webflow.com/635e632477408d12d1811a64/64062c3149536757695aed21_Reduximg.jpeg" alt="redux icon" width="50" height="50"><a/>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50" height="50">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="NodeJs" width="50" height="50">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="postgresSQL" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" width="50" height="50">
+<img src="https://i.blogs.es/bc08e5/html5_logo_256/450_1000.webp" alt="HTML" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50" height="50">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="Express" width="50" height="50">
+<img src="https://miro.medium.com/v2/resize:fit:250/0*rwd6KeolcXgz7zpx.png" alt="Sequelize" width="50" height="50">
+<img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Redux" width="50" height="50"><a/>
 
 <h3>CONTACTO 📞📧</h3>
 <p>
