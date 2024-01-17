@@ -36,7 +36,7 @@
 </p>
 
 <a href="mailto:mytcarrizosaland@gmail.com"><img src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon.png" alt="email icon" width="5%" height="8%"></a>
-<a href="https://www.linkedin.com/in/mariocarrizosa21/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin icon" width="5%" height="8%"/></a>
+<!-- <a href="https://www.linkedin.com/in/mariocarrizosa21/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin icon" width="5%" height="8%"/></a>
 <a href="https://www.facebook.com/mayitohomura21" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_de_Facebook.png" alt="facebook icon" width="5%" height="8%"/></a>
 <a href="https://wa.me/+525649429351" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png?w=360" alt="whatsapp icon" width="5%" height="8%"/></a>
 
