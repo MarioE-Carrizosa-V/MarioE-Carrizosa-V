@@ -1,4 +1,4 @@
-<h1>Hola soy Mario E. Carrizosa Villarreal 👋</h1>
+<h1>Hola soy Mario E. Carrizosa 👋</h1>
 
 <h2>Desarrollador Full Stack 🚀</h2>
 
